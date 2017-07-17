@@ -5,7 +5,7 @@
 # Written and tested with Python3.4
 # Sets of function to ease PeeringDB API call and
 # parse the result.
-# Last update : 23 June 2017
+# Last update : 17 July 2017
 ###################################################
 
 
