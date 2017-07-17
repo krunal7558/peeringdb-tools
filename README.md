@@ -1,3 +1,5 @@
 # peeringdb-tools
 peeringbd tools
-Sets of function to ease PeeringDB API call and  parse the result.
+Sets of function to ease PeeringDB API call and parse the result.
+https://peeringdb.com/api/
+
